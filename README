@@ -9,13 +9,20 @@ To clone and run this website locally, follow these steps:
 
 Clone the repository:
 git clone https://github.com/irebazaga/portfolio-website.git
+
 Navigate to the repository directory:
 cd portfolio-website
+
 Install the dependencies:
 npm install
+
 Start the development server:
 npm start
+
 Open your browser and navigate to http://localhost:3000
+
+The CSS file is in the CSS folder.
+
 Features
 This website includes the following features:
 
