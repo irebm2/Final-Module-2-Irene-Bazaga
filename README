@@ -1,0 +1,34 @@
+
+README
+Irene Bazaga - Portfolio Website
+
+This is my personal portfolio website, showcasing my skills and experience as a web developer.
+
+Getting Started
+To clone and run this website locally, follow these steps:
+
+Clone the repository:
+git clone https://github.com/irebazaga/portfolio-website.git
+Navigate to the repository directory:
+cd portfolio-website
+Install the dependencies:
+npm install
+Start the development server:
+npm start
+Open your browser and navigate to http://localhost:3000
+Features
+This website includes the following features:
+
+A homepage with a brief introduction about myself and my skills
+A work page with links to my projects
+A contact page with my contact information
+Deployment
+This website is deployed to GitHub Pages using Netlify. To deploy the website, you will need to create a Netlify account and link your GitHub repository to Netlify.
+
+Once you have linked your repository to Netlify, you can deploy the website by clicking the "Deploy with Netlify" button on your repository's GitHub page.
+
+License
+This website is licensed under the MIT License.
+
+Contributions
+Pull requests and feedback are welcome!
